@@ -9,7 +9,7 @@ module.exports = {
   siteHeadline: '', // Headline for schema.org JSONLD
   siteUrl: 'https://kon-yu.work', // Domain of your site. No trailing slash!
   siteLanguage: 'ja', // Language Tag on <html> element
-  siteLogo: '/logo.png', // Used for SEO and manifest
+  siteLogo: '/logo.jpg', // Used for SEO and manifest
   siteDescription: 'ハイパフォーマンスなシステムデザインいたします',
   author: '@kon_yu', // Author for schema.org JSONLD
 
