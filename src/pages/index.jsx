@@ -105,7 +105,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="@kon_yu" />
           <AboutSub>
-          フリーランスのソWEBデザイナー、メディアアーティスト、技術顧問
+          フリーランスのWEBデザイナー、メディアアーティスト、ソフトウェアエンジニア、技術顧問
           </AboutSub>
         </AboutHero>
         <AboutDesc>
